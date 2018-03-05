@@ -16,8 +16,8 @@ module.exports = {
      * Your GitHub application configuration
      */
     github: {
-      client_id: 'MY_APP_ID',
-      client_secret: 'MY_APP_SECRET',
+      client_id: '47c5b42b6a2e1f8724a4',
+      client_secret: '1b263c360c835b138ecb144181e087a7573a1c05',
       scope: 'read:user gist'
     },
 
